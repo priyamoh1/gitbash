@@ -8,5 +8,12 @@ public class GittBashTest {
 		System.out.println("'hii");
 
 	}
+	
+	public void m1()
+	{
+		
+		
+	}
+	
 
 }
